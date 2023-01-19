@@ -1,0 +1,2 @@
+# javanew
+repo for javacode
